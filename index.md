@@ -1,4 +1,4 @@
-# Deleting Your Memore Account
+# Deleting Your Ministore Account
 
 To request deletion of your Ministore account and all associated data, please submit the following information via our Google Form: [https://forms.gle/pRoiggnX2EkpFdfP9]
 
